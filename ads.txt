@@ -41,7 +41,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 cdn.ster.nl
 0.0.0.0 xb.lc
-0.0.0.0 anyclip.com
 
 # blacklist
 #
