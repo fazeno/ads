@@ -40,6 +40,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z3dmbpl6309s.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 cdn.ster.nl
+0.0.0.0 xb.lc
 
 # blacklist
 #
