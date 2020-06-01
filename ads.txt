@@ -33,6 +33,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bytarome.com
 0.0.0.0 trackout.business
 0.0.0.0 iiprpq1bsedg.com
+0.0.0.0 nta1vb6cdlrl.com
 0.0.0.0 bitcoinnews24.me
 0.0.0.0 xqheb9yszyrd.com
 0.0.0.0 z3dmbpl6309s.com
