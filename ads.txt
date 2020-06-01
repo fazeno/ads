@@ -3,6 +3,7 @@
 #
 # Fetch the latest version of this file: https://github.com/fazeno/ads/edit/master/ads.txt
 # ===============================================================
+
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -17,9 +18,11 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
 #=====================================
 # Custom host records are listed here.
 #=====================================
+
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 as.2020mustang.com
 0.0.0.0 au79nt5wic4x.com
@@ -86,11 +89,3 @@ ff02::3 ip6-allhosts
 # End of custom host records.
 # Hosts contributed by Fazeno
 #=====================================
-
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-# 0.0.0.0 example.com
