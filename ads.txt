@@ -1,8 +1,8 @@
+# ===============================================================
 # Title: Fazeno/ads
 #
 # Fetch the latest version of this file: https://github.com/fazeno/ads/edit/master/ads.txt
 # ===============================================================
-
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -17,14 +17,9 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
-
-# End of custom host records.
-
 #=====================================
-# Hosts contributed by Fazeno
-
+# Custom host records are listed here.
+#=====================================
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 as.2020mustang.com
 0.0.0.0 au79nt5wic4x.com
@@ -42,6 +37,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.ster.nl
 0.0.0.0 xb.lc
 0.0.0.0 get-express-vpn.xyz
+#=====================================
+# End of custom host records.
+# Hosts contributed by Fazeno
+#=====================================
 
 # blacklist
 #
