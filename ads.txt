@@ -23,6 +23,7 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 #=====================================
 
+0.0.0.0 bitcoinwayx.com
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 as.2020mustang.com
 0.0.0.0 au79nt5wic4x.com
