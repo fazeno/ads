@@ -88,7 +88,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 installer.filebulldog.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
-0.0.0.0 cdn.blitz.gg
+0.0.0.0 blitz-cdn.blitz.gg
 
 #=====================================
 # End of custom host records.
