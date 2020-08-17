@@ -95,6 +95,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.d1272serve.xyz
 0.0.0.0 n1272serve.xyz
 0.0.0.0 api.hardware.info
+0.0.0.0 iwanttodeliver.com
 
 #=====================================
 # Hosts contributed by Fazeno
