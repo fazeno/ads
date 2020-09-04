@@ -1,7 +1,5 @@
 # ===============================================================
 # Title: Fazeno/ads
-#
-# Fetch the latest version of this file: https://github.com/fazeno/ads/edit/master/ads.txt
 # ===============================================================
 
 127.0.0.1 localhost
@@ -98,7 +96,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 lh4.googleusercontent.com
 0.0.0.0 thuis.nl
-
-#=====================================
-# Hosts contributed by Fazeno
-#=====================================
