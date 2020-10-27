@@ -96,3 +96,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 lh4.googleusercontent.com
 0.0.0.0 thuis.nl
+0.0.0.0 elfpetsic.com
