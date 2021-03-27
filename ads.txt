@@ -99,3 +99,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 adultsonly.pro
 0.0.0.0 log.videocampaign.co
 0.0.0.0 ttoc8ok.com
+0.0.0.0 weaveradrenaline.com
