@@ -106,3 +106,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 get-express-vpn.com
 0.0.0.0 artisany.net
 0.0.0.0 elvenar.com
+0.0.0.0 1111sale.us
