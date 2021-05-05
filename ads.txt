@@ -102,3 +102,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 weaveradrenaline.com
 0.0.0.0 best2020-games-web1.com
 0.0.0.0 farcdnf.com
+0.0.0.0 gp.trcked.me
